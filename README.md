@@ -20,7 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnirbanSaha-Aiub&show_icons=true&locale=en" alt="AnirbanSaha-Aiub" /></p>
 <br />
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSaha-Aiub&layout=compact)](https://github.com/AnirbanSaha-Aiub/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSaha-Aiub&layout=compact" alt="AnirbanSaha-Aiub" /></p>
+
 
 
 
