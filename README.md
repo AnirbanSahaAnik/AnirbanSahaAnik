@@ -17,18 +17,10 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnirbanSaha-Aiub&show_icons=true&locale=en" alt="AnirbanSaha-Aiub" /></p>
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anirban's GitHub Stats" src="https://github-readme-stats.AnirbanSaha-Aiub.vercel.app/api?username=AnirbanSaha-Aiub&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSaha-Aiub&langs_count=8)](https://github.com/AnirbanSaha-Aiub/github-readme-stats)
 
 
 [twitter]: https://twitter.com/AnirbanSahaAnik
