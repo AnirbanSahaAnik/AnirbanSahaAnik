@@ -20,9 +20,9 @@
 <br/>  
 <div align="center">
 </a>
- <a href="https://anirbansaha-Aiub.github.io/" target="_blank">
+<!--  <a href="https://anirbansaha-Aiub.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Anirban%20Saha-Portfolio-green alt=portfolio style="margin-bottom: 5px;" />
-</a>
+</a> -->
 </div><br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnirbanSaha-Aiub&&style=flat-square" align="center" />
