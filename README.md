@@ -1,7 +1,10 @@
-### Hi there, I'm Anirban Saha 👋
+## Hi there, I'm Anirban Saha 👋
+- **Enthusiastic to become a Data Scientist**
 
-
-- 🌱 I’m currently learning Machine Learning.
+- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
+- I'm currently learning on Data Science and Machine Learning
+- Recently competitor at 30 Days of ML challenge on kaggle
+- Interest: Data Science || Machine Learning || Deep Learning
 
 ### Connect with me:
 
@@ -29,13 +32,6 @@
 </div> 
  
 
-<br />
-
-
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnirbanSaha-Aiub&show_icons=true&locale=en" alt="AnirbanSaha-Aiub" /></p>
 <br />
 
 
