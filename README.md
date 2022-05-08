@@ -1,9 +1,9 @@
 ## Hi there, I'm Anirban Saha 👋
 - **Enthusiastic to become a Data Scientist**
-
-- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh(AIUB).
+- Currently Working as an Intrn in Microfinance Technology (Enterprise Applications), BRAC.
+- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
 - I'm currently learning on Data Science and Machine Learning
-- Interest: Machine Learning || ***Deep Learning*** || Medical Image Processing
+- Research Interest: Machine Learning || Deep Learning || **Medical Image Processing**
 
 ### Connect with me:
 
