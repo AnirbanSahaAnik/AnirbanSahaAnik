@@ -1,8 +1,9 @@
-## Hi there, I'm Anirban Saha 👋
-- **Enthusiastic to become a Data Scientist**
-- Currently Working as an Intern in Microfinance Technology (Enterprise Applications), BRAC.
-- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
-- I'm currently learning Data Science and Machine Learning
+# Hi there, I'm Anirban Saha 👋
+- **Aspiring Data Scientist**
+- Currently pursuing an M.S. in Data Science at the University of North Texas, Denton, TX.
+- Completed B.S. in Computer Science and Engineering from the American International University-Bangladesh (AIUB).
+- Interned in the Enterprise Applications Department (Microfinance) at BRAC.
+- I'm currently advancing my knowledge in Data Science and Machine Learning.
 - Research Interest: Machine Learning || Deep Learning || **Medical Image Processing**
 
 ### Connect with me:
