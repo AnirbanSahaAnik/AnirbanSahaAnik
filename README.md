@@ -3,8 +3,8 @@
 - Graduate Student (M.S. in Data Science) at the **University of North Texas (UNT)**, Denton, TX.
 - Completed B.S. in **Computer Science and Engineering** from **American International University-Bangladesh (AIUB)**.
 - Former Intern in the **Enterprise Applications Department (Microfinance)** at **BRAC**.
-- Currently exploring advanced **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**.
-- **Research Interests:** NLP • Large Language Models (LLMs) • Trustworthy AI • Responsible Misinformation Detection
+- Focused on advancing expertise in Large Language Models (LLMs) for NLP and trustworthy AI applications..
+- **Research Interests:** NLP • Large Language Models (LLMs) • Trustworthy AI 
 
 ### 🔗 Connect with me
 <div align="center">
