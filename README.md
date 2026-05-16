@@ -1,6 +1,6 @@
 # Hi there, I'm Anirban Saha 👋
 - **Aspiring Data Scientist & AI Researcher**
-- Graduate Student (M.S. in Data Science) at the **University of North Texas (UNT)**, Denton, TX.
+- PhD Student (Computer Science and Engineering) at the **University of North Texas (UNT)**, Denton, TX.
 - Completed B.S. in **Computer Science and Engineering** from **American International University-Bangladesh (AIUB)**.
 - Former Intern in the **Enterprise Applications Department (Microfinance)** at **BRAC**.
 - Focused on advancing expertise in Large Language Models (LLMs) for NLP and trustworthy AI applications..
