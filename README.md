@@ -36,8 +36,8 @@ I build and evaluate language model systems that use reliable evidence, adapt to
 ### 🎓 Education
 
 - **Ph.D. in Computer Science and Engineering** — University of North Texas, 2026–present.
-- **M.S. in Data Science** — University of North Texas, 2025 · GPA: **4.00/4.00**.
-- **B.Sc. in Computer Science and Engineering** — American International University-Bangladesh (AIUB), 2021.
+- **M.S. in Data Science** — University of North Texas.
+- **B.Sc. in Computer Science and Engineering** — American International University-Bangladesh (AIUB).
 
 ### 🔗 Connect with me
 
