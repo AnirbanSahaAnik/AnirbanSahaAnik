@@ -22,10 +22,6 @@ I build and evaluate language model systems that use reliable evidence, adapt to
 
 [All publications](https://anirbansahaanik.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=yhtMiNoAAAAJ&hl=en)
 
-### 💼 Data engineering & analytics
-
-Previously a **Data Insights Analyst Intern at SEES Group**, working on **Snowflake-to-Microsoft Fabric data pipelines**, new data integration, data governance, and collaboration with analytics teams supporting **Power BI dashboards**.
-
 **Certification:** Microsoft Certified: Fabric Data Engineer Associate.
 
 ### 🛠️ Technical toolkit
